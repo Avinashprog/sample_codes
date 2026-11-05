@@ -8,3 +8,5 @@ keep_only_highest_Set_bit
 replace_bits
 setorclr
 set_specific_bits
+rotate_arrt_bykpos
+
