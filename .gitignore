@@ -9,4 +9,8 @@ replace_bits
 setorclr
 set_specific_bits
 rotate_arrt_bykpos
+find_duplicates
+serail_data_buffer
+sliding_window
+
 
