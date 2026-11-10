@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("Original version\n");
+	printf("Developer A version\n");
 	return 0;
 }
