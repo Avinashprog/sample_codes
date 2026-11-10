@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 
-void swp(int *a, int *b)
+void swp (int *a, int *b)
 {
 	*a = *a ^ *b ;
 	*b = *a ^ *b ;
@@ -15,7 +15,7 @@ int main()
 
 	scanf("%d %d",&a ,&b);
 
-	swp(&a, &b);
+	swp (&a, &b);
 
 	printf("%d %d\n", a, b);
 }
